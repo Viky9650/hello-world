@@ -31,7 +31,8 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Vickey Happy Learning Good Job Bro </h1>
+   <h1> Thankyou, Vickey Happy Learning Good Job </h1>
+ <h1> YOu have learnt Jenkins CICD pipleline  </h1>
 
   
 </form>
